@@ -2,7 +2,7 @@
 
 set -e
 
-REPO="https://github.com/yourname/bashket.git"
+REPO="https://github.com/milestones14/bashket.git"
 TMP_DIR="$(mktemp -d)"
 
 echo "Installing Bashket..."
